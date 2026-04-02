@@ -1,0 +1,7 @@
+C:\Users\saif_\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MathandComparisonAssignment\MathandComparisonAssignment\bin\Debug\MathandComparisonAssignment.exe.config
+C:\Users\saif_\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MathandComparisonAssignment\MathandComparisonAssignment\bin\Debug\MathandComparisonAssignment.exe
+C:\Users\saif_\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MathandComparisonAssignment\MathandComparisonAssignment\bin\Debug\MathandComparisonAssignment.pdb
+C:\Users\saif_\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MathandComparisonAssignment\MathandComparisonAssignment\obj\Debug\MathandComparisonAssignment.csproj.AssemblyReference.cache
+C:\Users\saif_\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MathandComparisonAssignment\MathandComparisonAssignment\obj\Debug\MathandComparisonAssignment.csproj.CoreCompileInputs.cache
+C:\Users\saif_\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MathandComparisonAssignment\MathandComparisonAssignment\obj\Debug\MathandComparisonAssignment.exe
+C:\Users\saif_\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MathandComparisonAssignment\MathandComparisonAssignment\obj\Debug\MathandComparisonAssignment.pdb

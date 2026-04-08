@@ -1,0 +1,2 @@
+C:\Users\saif_\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.AssemblyReference.cache
+C:\Users\saif_\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.CoreCompileInputs.cache

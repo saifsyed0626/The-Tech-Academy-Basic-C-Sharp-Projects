@@ -1,0 +1,7 @@
+C:\Users\saif_\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TryAndCatch Assignment\TryAndCatch Assignment\bin\Debug\TryAndCatch Assignment.exe.config
+C:\Users\saif_\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TryAndCatch Assignment\TryAndCatch Assignment\bin\Debug\TryAndCatch Assignment.exe
+C:\Users\saif_\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TryAndCatch Assignment\TryAndCatch Assignment\bin\Debug\TryAndCatch Assignment.pdb
+C:\Users\saif_\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TryAndCatch Assignment\TryAndCatch Assignment\obj\Debug\TryAndCatch Assignment.csproj.AssemblyReference.cache
+C:\Users\saif_\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TryAndCatch Assignment\TryAndCatch Assignment\obj\Debug\TryAndCatch Assignment.csproj.CoreCompileInputs.cache
+C:\Users\saif_\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TryAndCatch Assignment\TryAndCatch Assignment\obj\Debug\TryAndCatch Assignment.exe
+C:\Users\saif_\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TryAndCatch Assignment\TryAndCatch Assignment\obj\Debug\TryAndCatch Assignment.pdb

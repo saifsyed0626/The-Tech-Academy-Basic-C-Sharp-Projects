@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saif_\\source\\repos\\StudentCodeFirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA20979-BAA2-49D8-8D40-8F45406AE4E3}|StudentCodeFirstApp\\StudentCodeFirstApp.csproj|c:\\users\\saif_\\source\\repos\\studentcodefirstapp\\studentcodefirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA20979-BAA2-49D8-8D40-8F45406AE4E3}|StudentCodeFirstApp\\StudentCodeFirstApp.csproj|solutionrelative:studentcodefirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA20979-BAA2-49D8-8D40-8F45406AE4E3}|StudentCodeFirstApp\\StudentCodeFirstApp.csproj|c:\\users\\saif_\\source\\repos\\studentcodefirstapp\\studentcodefirstapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ADA20979-BAA2-49D8-8D40-8F45406AE4E3}|StudentCodeFirstApp\\StudentCodeFirstApp.csproj|solutionrelative:studentcodefirstapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA20979-BAA2-49D8-8D40-8F45406AE4E3}|StudentCodeFirstApp\\StudentCodeFirstApp.csproj|c:\\users\\saif_\\source\\repos\\studentcodefirstapp\\studentcodefirstapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA20979-BAA2-49D8-8D40-8F45406AE4E3}|StudentCodeFirstApp\\StudentCodeFirstApp.csproj|solutionrelative:studentcodefirstapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA20979-BAA2-49D8-8D40-8F45406AE4E3}|StudentCodeFirstApp\\StudentCodeFirstApp.csproj|c:\\users\\saif_\\source\\repos\\studentcodefirstapp\\studentcodefirstapp\\data\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA20979-BAA2-49D8-8D40-8F45406AE4E3}|StudentCodeFirstApp\\StudentCodeFirstApp.csproj|solutionrelative:studentcodefirstapp\\data\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\saif_\\source\\repos\\StudentCodeFirstApp\\StudentCodeFirstApp\\App.config",
+              "RelativeDocumentMoniker": "StudentCodeFirstApp\\App.config",
+              "ToolTip": "C:\\Users\\saif_\\source\\repos\\StudentCodeFirstApp\\StudentCodeFirstApp\\App.config",
+              "RelativeToolTip": "StudentCodeFirstApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-23T22:40:03.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\saif_\\source\\repos\\StudentCodeFirstApp\\StudentCodeFirstApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentCodeFirstApp\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\saif_\\source\\repos\\StudentCodeFirstApp\\StudentCodeFirstApp\\Models\\Student.cs",
+              "RelativeToolTip": "StudentCodeFirstApp\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T22:36:32.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saif_\\source\\repos\\StudentCodeFirstApp\\StudentCodeFirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "StudentCodeFirstApp\\Program.cs",
+              "ToolTip": "C:\\Users\\saif_\\source\\repos\\StudentCodeFirstApp\\StudentCodeFirstApp\\Program.cs",
+              "RelativeToolTip": "StudentCodeFirstApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T22:24:17.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\saif_\\source\\repos\\StudentCodeFirstApp\\StudentCodeFirstApp\\Data\\StudentContext.cs",
+              "RelativeDocumentMoniker": "StudentCodeFirstApp\\Data\\StudentContext.cs",
+              "ToolTip": "C:\\Users\\saif_\\source\\repos\\StudentCodeFirstApp\\StudentCodeFirstApp\\Data\\StudentContext.cs",
+              "RelativeToolTip": "StudentCodeFirstApp\\Data\\StudentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T22:38:46.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

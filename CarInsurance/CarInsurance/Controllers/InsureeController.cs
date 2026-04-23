@@ -14,6 +14,13 @@ namespace CarInsurance.Controllers
     {
         private InsuranceEntities db = new InsuranceEntities();
 
+        // GET: Admin
+        public ActionResult Admin()
+        {
+            var insurees = db.Insurees.ToList();
+            return View(insurees);
+        }
+
         // GET: Insuree
         public ActionResult Index()
         {
@@ -44,14 +51,69 @@ namespace CarInsurance.Controllers
         // POST: Insuree/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
+
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
+        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType")] Insuree insuree)
         {
             if (ModelState.IsValid)
             {
+                decimal quote = 50;
+
+                // Age calculation
+                int age = DateTime.Now.Year - insuree.DateOfBirth.Year;
+                if (DateTime.Now.DayOfYear < insuree.DateOfBirth.DayOfYear)
+                {
+                    age--;
+                }
+
+                // Age pricing
+                if (age <= 18)
+                    quote += 100;
+                else if (age <= 25)
+                    quote += 50;
+                else
+                    quote += 25;
+
+                // Car year
+                if (insuree.CarYear < 2000)
+                    quote += 25;
+
+                if (insuree.CarYear > 2015)
+                    quote += 25;
+
+                // Car make/model
+                if (insuree.CarMake.ToLower() == "porsche")
+                {
+                    quote += 25;
+
+                    if (insuree.CarModel.ToLower() == "911 carrera")
+                    {
+                        quote += 25;
+                    }
+                }
+
+                // Speeding tickets
+                quote += insuree.SpeedingTickets * 10;
+
+                // DUI
+                if (insuree.DUI)
+                {
+                    quote *= 1.25m;
+                }
+
+                // Full coverage (FIXED)
+                if (insuree.CoverageType == CarInsurance.Models.CoverageType.Full)
+                {
+                    quote *= 1.5m;
+                }
+
+                // Assign quote BEFORE saving
+                insuree.Quote = quote;
+
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
+
                 return RedirectToAction("Index");
             }
 
